@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-monitor "npm install -f"
+"npm install -f"
 exit 0
