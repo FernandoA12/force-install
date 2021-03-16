@@ -1,4 +1,5 @@
-#!/usr/bin/env bash
+#!/usr/bin/env node
+# bin/compile <build-dir> <cache-dir> <env-dir>
 
 "npm install -f"
 exit 0
